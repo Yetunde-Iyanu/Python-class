@@ -1,4 +1,4 @@
-sliceite_name = "Power Learn Project"
+site_name = "Power Learn Project"
 print (site_name)
 site_name = "I love Software Engineering"
 print(site_name)
